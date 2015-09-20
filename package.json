@@ -1,0 +1,33 @@
+{
+  "name": "syue",
+  "version": "1.0.0",
+  "description": "專門將xml , csv資料存放至parse",
+  "main": "config.js",
+  "dependencies": {
+    "jquery-deferred": "^0.3.0",
+    "mocha": "^2.3.2",
+    "path": "^0.12.7",
+    "sinon": "^1.16.1",
+    "xml2js": "^0.4.12"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-mocha": "^2.1.3",
+    "jshint": "^2.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgileDeveloperConference/SYUEMountainDataPatch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgileDeveloperConference/SYUEMountainDataPatch/issues"
+  },
+  "homepage": "https://github.com/AgileDeveloperConference/SYUEMountainDataPatch#readme"
+}

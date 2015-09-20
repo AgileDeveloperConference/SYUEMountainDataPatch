@@ -1,0 +1,1878 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML_Head version="1.1" listname="VD五分鐘動態資訊" updatetime="2015/03/31 23:58:00" interval="300">
+	<Infos>
+		<Info vdid="nfbVD-5S-SDT-1.072" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="86" laneoccupy="2">
+				<cars carid="S" volume="14"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="92" laneoccupy="2">
+				<cars carid="S" volume="22"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SDT-1.424" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="93" laneoccupy="3">
+				<cars carid="S" volume="23"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="86" laneoccupy="2">
+				<cars carid="S" volume="15"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SDT-1.766" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="92" laneoccupy="2">
+				<cars carid="S" volume="23"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="86" laneoccupy="2">
+				<cars carid="S" volume="15"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SDT-2.050" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="88" laneoccupy="2">
+				<cars carid="S" volume="21"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="78" laneoccupy="2">
+				<cars carid="S" volume="14"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SDT-2.433" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="93" laneoccupy="2">
+				<cars carid="S" volume="20"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="89" laneoccupy="1">
+				<cars carid="S" volume="11"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="1"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SDT-2.835" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="94" laneoccupy="2">
+				<cars carid="S" volume="16"></cars>
+				<cars carid="T" volume="3"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="87" laneoccupy="2">
+				<cars carid="S" volume="17"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SDT-3.178" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="90" laneoccupy="2">
+				<cars carid="S" volume="18"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="88" laneoccupy="3">
+				<cars carid="S" volume="19"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-3.506" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="86" laneoccupy="1">
+				<cars carid="S" volume="14"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="85" laneoccupy="3">
+				<cars carid="S" volume="24"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SDIC-O-3.806" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="62" laneoccupy="1">
+				<cars carid="S" volume="7"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-4.016" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="95" laneoccupy="2">
+				<cars carid="S" volume="18"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="87" laneoccupy="1">
+				<cars carid="S" volume="11"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SDIC-I-4.178" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="35" laneoccupy="0">
+				<cars carid="S" volume="2"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-4.395" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="89" laneoccupy="2">
+				<cars carid="S" volume="19"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="99" laneoccupy="1">
+				<cars carid="S" volume="12"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="1"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-4.749" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="95" laneoccupy="2">
+				<cars carid="S" volume="18"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="86" laneoccupy="2">
+				<cars carid="S" volume="14"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="3" speed="75" laneoccupy="0">
+				<cars carid="S" volume="1"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-5.523" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="90" laneoccupy="2">
+				<cars carid="S" volume="19"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="86" laneoccupy="2">
+				<cars carid="S" volume="11"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="1"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-6.498" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="82" laneoccupy="2">
+				<cars carid="S" volume="20"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="85" laneoccupy="2">
+				<cars carid="S" volume="16"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="3" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-7.113" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="92" laneoccupy="1">
+				<cars carid="S" volume="14"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="92" laneoccupy="2">
+				<cars carid="S" volume="19"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="3" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-7.553" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="90" laneoccupy="2">
+				<cars carid="S" volume="15"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="82" laneoccupy="2">
+				<cars carid="S" volume="18"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-7.923" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="90" laneoccupy="1">
+				<cars carid="S" volume="15"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="86" laneoccupy="2">
+				<cars carid="S" volume="19"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="3" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-8.669" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="92" laneoccupy="2">
+				<cars carid="S" volume="16"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="88" laneoccupy="2">
+				<cars carid="S" volume="18"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="3" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-9.063" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="92" laneoccupy="2">
+				<cars carid="S" volume="17"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="88" laneoccupy="2">
+				<cars carid="S" volume="17"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="3" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-PST-9.326" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="90" laneoccupy="2">
+				<cars carid="S" volume="20"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="91" laneoccupy="2">
+				<cars carid="S" volume="16"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="1"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-PST-9.840" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="89" laneoccupy="2">
+				<cars carid="S" volume="20"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="91" laneoccupy="2">
+				<cars carid="S" volume="18"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-PST-10.145" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="88" laneoccupy="2">
+				<cars carid="S" volume="19"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="90" laneoccupy="2">
+				<cars carid="S" volume="18"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-PST-10.495" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="90" laneoccupy="2">
+				<cars carid="S" volume="18"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="88" laneoccupy="2">
+				<cars carid="S" volume="16"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-PST-P-10.845" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="88" laneoccupy="2">
+				<cars carid="S" volume="17"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="88" laneoccupy="2">
+				<cars carid="S" volume="17"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="3" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-PST-11.158" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="87" laneoccupy="2">
+				<cars carid="S" volume="18"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="88" laneoccupy="2">
+				<cars carid="S" volume="16"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-PST-11.545" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="88" laneoccupy="1">
+				<cars carid="S" volume="16"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="88" laneoccupy="2">
+				<cars carid="S" volume="17"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-PST-P-11.895" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="88" laneoccupy="1">
+				<cars carid="S" volume="16"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="87" laneoccupy="2">
+				<cars carid="S" volume="18"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="3" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-PST-12.245" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="90" laneoccupy="1">
+				<cars carid="S" volume="12"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="87" laneoccupy="2">
+				<cars carid="S" volume="14"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-PST-12.595" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="89" laneoccupy="1">
+				<cars carid="S" volume="13"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="88" laneoccupy="2">
+				<cars carid="S" volume="14"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-PST-12.945" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="89" laneoccupy="1">
+				<cars carid="S" volume="12"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="87" laneoccupy="1">
+				<cars carid="S" volume="12"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-13.343" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="77" laneoccupy="1">
+				<cars carid="S" volume="7"></cars>
+				<cars carid="T" volume="5"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="75" laneoccupy="1">
+				<cars carid="S" volume="11"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="1"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-14.356" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="86" laneoccupy="1">
+				<cars carid="S" volume="15"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="89" laneoccupy="0">
+				<cars carid="S" volume="6"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-PLIC-O-14.483" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="70" laneoccupy="0">
+				<cars carid="S" volume="2"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-14.540" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="92" laneoccupy="2">
+				<cars carid="S" volume="19"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="96" laneoccupy="0">
+				<cars carid="S" volume="3"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-PLIC-I-14.691" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-15.139" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="83" laneoccupy="3">
+				<cars carid="S" volume="21"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-15.478" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="89" laneoccupy="3">
+				<cars carid="S" volume="21"></cars>
+				<cars carid="T" volume="3"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-15.856" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="87" laneoccupy="3">
+				<cars carid="S" volume="22"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-16.201" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="85" laneoccupy="4">
+				<cars carid="S" volume="28"></cars>
+				<cars carid="T" volume="6"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-16.551" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="85" laneoccupy="4">
+				<cars carid="S" volume="28"></cars>
+				<cars carid="T" volume="6"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-P-16.902" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="88" laneoccupy="1">
+				<cars carid="S" volume="11"></cars>
+				<cars carid="T" volume="3"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-17.253" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="87" laneoccupy="4">
+				<cars carid="S" volume="28"></cars>
+				<cars carid="T" volume="6"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-17.608" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="85" laneoccupy="4">
+				<cars carid="S" volume="27"></cars>
+				<cars carid="T" volume="4"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-17.990" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="85" laneoccupy="3">
+				<cars carid="S" volume="23"></cars>
+				<cars carid="T" volume="4"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-P-18.312" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="86" laneoccupy="2">
+				<cars carid="S" volume="16"></cars>
+				<cars carid="T" volume="3"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-18.663" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="85" laneoccupy="3">
+				<cars carid="S" volume="22"></cars>
+				<cars carid="T" volume="4"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-19.013" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="85" laneoccupy="4">
+				<cars carid="S" volume="25"></cars>
+				<cars carid="T" volume="4"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-19.363" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="85" laneoccupy="3">
+				<cars carid="S" volume="25"></cars>
+				<cars carid="T" volume="4"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-P-19.677" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="84" laneoccupy="4">
+				<cars carid="S" volume="26"></cars>
+				<cars carid="T" volume="5"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-20.063" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="84" laneoccupy="4">
+				<cars carid="S" volume="26"></cars>
+				<cars carid="T" volume="6"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-20.413" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="85" laneoccupy="4">
+				<cars carid="S" volume="26"></cars>
+				<cars carid="T" volume="6"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-20.763" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="86" laneoccupy="4">
+				<cars carid="S" volume="27"></cars>
+				<cars carid="T" volume="6"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-P-21.063" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="85" laneoccupy="4">
+				<cars carid="S" volume="28"></cars>
+				<cars carid="T" volume="5"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-21.460" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="84" laneoccupy="5">
+				<cars carid="S" volume="31"></cars>
+				<cars carid="T" volume="6"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-21.807" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="83" laneoccupy="5">
+				<cars carid="S" volume="37"></cars>
+				<cars carid="T" volume="4"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-22.159" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="83" laneoccupy="7">
+				<cars carid="S" volume="46"></cars>
+				<cars carid="T" volume="4"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-P-22.506" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="84" laneoccupy="4">
+				<cars carid="S" volume="31"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-22.859" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="80" laneoccupy="6">
+				<cars carid="S" volume="36"></cars>
+				<cars carid="T" volume="4"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-23.207" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="84" laneoccupy="4">
+				<cars carid="S" volume="32"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-23.560" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="85" laneoccupy="5">
+				<cars carid="S" volume="32"></cars>
+				<cars carid="T" volume="4"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-P-23.910" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="85" laneoccupy="4">
+				<cars carid="S" volume="32"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-24.264" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="86" laneoccupy="4">
+				<cars carid="S" volume="32"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-24.678" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="85" laneoccupy="5">
+				<cars carid="S" volume="32"></cars>
+				<cars carid="T" volume="4"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-24.962" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="86" laneoccupy="4">
+				<cars carid="S" volume="31"></cars>
+				<cars carid="T" volume="4"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-P-25.312" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="87" laneoccupy="4">
+				<cars carid="S" volume="24"></cars>
+				<cars carid="T" volume="8"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-25.664" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="85" laneoccupy="5">
+				<cars carid="S" volume="34"></cars>
+				<cars carid="T" volume="6"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-26.013" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="86" laneoccupy="5">
+				<cars carid="S" volume="32"></cars>
+				<cars carid="T" volume="8"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-26.299" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="86" laneoccupy="5">
+				<cars carid="S" volume="33"></cars>
+				<cars carid="T" volume="6"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-P-26.706" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="86" laneoccupy="6">
+				<cars carid="S" volume="36"></cars>
+				<cars carid="T" volume="4"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-27.054" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="86" laneoccupy="5">
+				<cars carid="S" volume="36"></cars>
+				<cars carid="T" volume="6"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-27.442" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="86" laneoccupy="6">
+				<cars carid="S" volume="39"></cars>
+				<cars carid="T" volume="6"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-27.748" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="86" laneoccupy="5">
+				<cars carid="S" volume="35"></cars>
+				<cars carid="T" volume="6"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-SST-28.236" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="87" laneoccupy="4">
+				<cars carid="S" volume="27"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="90" laneoccupy="1">
+				<cars carid="S" volume="12"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-TCIC-O-29.716" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="83" laneoccupy="1">
+				<cars carid="S" volume="9"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-30.140" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="98" laneoccupy="1">
+				<cars carid="S" volume="14"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="95" laneoccupy="1">
+				<cars carid="S" volume="10"></cars>
+				<cars carid="T" volume="4"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-TCIC-I-30.249" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="45" laneoccupy="1">
+				<cars carid="S" volume="4"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5S-30.266" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="96" laneoccupy="1">
+				<cars carid="S" volume="14"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="95" laneoccupy="1">
+				<cars carid="S" volume="9"></cars>
+				<cars carid="T" volume="4"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-0.178" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="83" laneoccupy="0">
+				<cars carid="S" volume="8"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="84" laneoccupy="2">
+				<cars carid="S" volume="13"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-0.706" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="78" laneoccupy="2">
+				<cars carid="S" volume="16"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="73" laneoccupy="1">
+				<cars carid="S" volume="11"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SDT-1.068" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="80" laneoccupy="2">
+				<cars carid="S" volume="12"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="2"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="85" laneoccupy="3">
+				<cars carid="S" volume="23"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SDT-1.435" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="83" laneoccupy="1">
+				<cars carid="S" volume="11"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="85" laneoccupy="2">
+				<cars carid="S" volume="21"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SDT-1.788" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="86" laneoccupy="3">
+				<cars carid="S" volume="23"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="85" laneoccupy="2">
+				<cars carid="S" volume="14"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SDT-2.068" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="86" laneoccupy="2">
+				<cars carid="S" volume="20"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="80" laneoccupy="2">
+				<cars carid="S" volume="15"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SDT-2.455" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="86" laneoccupy="2">
+				<cars carid="S" volume="21"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="82" laneoccupy="2">
+				<cars carid="S" volume="18"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SDT-2.849" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="88" laneoccupy="2">
+				<cars carid="S" volume="21"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="82" laneoccupy="3">
+				<cars carid="S" volume="18"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="1"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SDT-3.198" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="89" laneoccupy="0">
+				<cars carid="S" volume="2"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="83" laneoccupy="2">
+				<cars carid="S" volume="18"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SDIC-I-4.044" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="34" laneoccupy="2">
+				<cars carid="S" volume="7"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-4.058" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="89" laneoccupy="2">
+				<cars carid="S" volume="19"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="88" laneoccupy="1">
+				<cars carid="S" volume="14"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-4.400" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="89" laneoccupy="2">
+				<cars carid="S" volume="20"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="89" laneoccupy="1">
+				<cars carid="S" volume="12"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SDIC-O-4.455" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="81" laneoccupy="0">
+				<cars carid="S" volume="4"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-4.460" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="89" laneoccupy="2">
+				<cars carid="S" volume="18"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="87" laneoccupy="1">
+				<cars carid="S" volume="14"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="3" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-5.523" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="90" laneoccupy="1">
+				<cars carid="S" volume="13"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="83" laneoccupy="3">
+				<cars carid="S" volume="20"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-5.883" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="84" laneoccupy="2">
+				<cars carid="S" volume="17"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="83" laneoccupy="2">
+				<cars carid="S" volume="19"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-6.413" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="87" laneoccupy="2">
+				<cars carid="S" volume="17"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="84" laneoccupy="2">
+				<cars carid="S" volume="17"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-7.113" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="89" laneoccupy="2">
+				<cars carid="S" volume="18"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="86" laneoccupy="3">
+				<cars carid="S" volume="22"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-7.636" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="84" laneoccupy="2">
+				<cars carid="S" volume="17"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="85" laneoccupy="1">
+				<cars carid="S" volume="14"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-8.043" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="89" laneoccupy="1">
+				<cars carid="S" volume="16"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="84" laneoccupy="1">
+				<cars carid="S" volume="14"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-8.703" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="89" laneoccupy="1">
+				<cars carid="S" volume="14"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="87" laneoccupy="2">
+				<cars carid="S" volume="19"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-9.013" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="88" laneoccupy="1">
+				<cars carid="S" volume="16"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="85" laneoccupy="2">
+				<cars carid="S" volume="16"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-PST-9.373" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="88" laneoccupy="2">
+				<cars carid="S" volume="19"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="82" laneoccupy="1">
+				<cars carid="S" volume="13"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-PST-9.840" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="88" laneoccupy="2">
+				<cars carid="S" volume="18"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="83" laneoccupy="1">
+				<cars carid="S" volume="13"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-PST-10.147" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="79" laneoccupy="2">
+				<cars carid="S" volume="19"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="83" laneoccupy="1">
+				<cars carid="S" volume="13"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-PST-10.506" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="87" laneoccupy="2">
+				<cars carid="S" volume="19"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="82" laneoccupy="1">
+				<cars carid="S" volume="13"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-PST-P-10.866" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="87" laneoccupy="2">
+				<cars carid="S" volume="20"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="84" laneoccupy="2">
+				<cars carid="S" volume="14"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="3" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-PST-11.178" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="87" laneoccupy="2">
+				<cars carid="S" volume="19"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="83" laneoccupy="2">
+				<cars carid="S" volume="14"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-PST-11.555" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="88" laneoccupy="2">
+				<cars carid="S" volume="18"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="84" laneoccupy="2">
+				<cars carid="S" volume="13"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-PST-P-11.896" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="87" laneoccupy="2">
+				<cars carid="S" volume="19"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="86" laneoccupy="2">
+				<cars carid="S" volume="14"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="3" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-PST-12.238" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="88" laneoccupy="2">
+				<cars carid="S" volume="17"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="86" laneoccupy="2">
+				<cars carid="S" volume="13"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-PST-12.579" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="89" laneoccupy="1">
+				<cars carid="S" volume="15"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="85" laneoccupy="1">
+				<cars carid="S" volume="12"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-PST-12.922" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="91" laneoccupy="2">
+				<cars carid="S" volume="22"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="87" laneoccupy="2">
+				<cars carid="S" volume="16"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-13.348" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="84" laneoccupy="2">
+				<cars carid="S" volume="16"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="83" laneoccupy="2">
+				<cars carid="S" volume="13"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-13.763" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="78" laneoccupy="1">
+				<cars carid="S" volume="14"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="80" laneoccupy="1">
+				<cars carid="S" volume="12"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-14.550" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="83" laneoccupy="2">
+				<cars carid="S" volume="17"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="83" laneoccupy="2">
+				<cars carid="S" volume="17"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-PLIC-I-14.583" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="57" laneoccupy="0">
+				<cars carid="S" volume="4"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-PLIC-O-14.683" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-14.800" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="84" laneoccupy="1">
+				<cars carid="S" volume="7"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-15.488" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="77" laneoccupy="3">
+				<cars carid="S" volume="23"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-15.855" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="83" laneoccupy="4">
+				<cars carid="S" volume="25"></cars>
+				<cars carid="T" volume="4"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-16.196" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="81" laneoccupy="3">
+				<cars carid="S" volume="23"></cars>
+				<cars carid="T" volume="4"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-16.570" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="82" laneoccupy="3">
+				<cars carid="S" volume="23"></cars>
+				<cars carid="T" volume="4"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-P-16.900" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="79" laneoccupy="4">
+				<cars carid="S" volume="23"></cars>
+				<cars carid="T" volume="4"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-17.268" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="78" laneoccupy="4">
+				<cars carid="S" volume="29"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-17.608" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="79" laneoccupy="5">
+				<cars carid="S" volume="33"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="39" laneoccupy="0">
+				<cars carid="S" volume="1"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-17.998" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="79" laneoccupy="5">
+				<cars carid="S" volume="28"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-P-18.313" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="78" laneoccupy="5">
+				<cars carid="S" volume="31"></cars>
+				<cars carid="T" volume="1"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-18.662" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="85" laneoccupy="4">
+				<cars carid="S" volume="28"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-19.012" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="82" laneoccupy="4">
+				<cars carid="S" volume="28"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-19.361" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="83" laneoccupy="4">
+				<cars carid="S" volume="28"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-P-19.689" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="84" laneoccupy="4">
+				<cars carid="S" volume="24"></cars>
+				<cars carid="T" volume="2"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-20.062" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="83" laneoccupy="3">
+				<cars carid="S" volume="26"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-20.412" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="85" laneoccupy="3">
+				<cars carid="S" volume="25"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-20.752" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="87" laneoccupy="2">
+				<cars carid="S" volume="21"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-P-21.055" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="84" laneoccupy="3">
+				<cars carid="S" volume="23"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-21.444" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="87" laneoccupy="2">
+				<cars carid="S" volume="17"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-21.808" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="86" laneoccupy="2">
+				<cars carid="S" volume="23"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-22.158" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="85" laneoccupy="3">
+				<cars carid="S" volume="22"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-P-22.510" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="87" laneoccupy="2">
+				<cars carid="S" volume="19"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-22.859" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="82" laneoccupy="3">
+				<cars carid="S" volume="23"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-23.209" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="84" laneoccupy="3">
+				<cars carid="S" volume="26"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-23.568" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="85" laneoccupy="3">
+				<cars carid="S" volume="26"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-P-23.911" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="84" laneoccupy="3">
+				<cars carid="S" volume="25"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-24.264" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="85" laneoccupy="2">
+				<cars carid="S" volume="19"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-24.677" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="84" laneoccupy="3">
+				<cars carid="S" volume="20"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-24.952" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="82" laneoccupy="2">
+				<cars carid="S" volume="22"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-P-25.310" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="82" laneoccupy="3">
+				<cars carid="S" volume="25"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-25.652" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="83" laneoccupy="3">
+				<cars carid="S" volume="23"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-26.007" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="81" laneoccupy="3">
+				<cars carid="S" volume="27"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-26.300" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="83" laneoccupy="3">
+				<cars carid="S" volume="26"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-P-26.705" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="83" laneoccupy="4">
+				<cars carid="S" volume="27"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-27.056" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="84" laneoccupy="3">
+				<cars carid="S" volume="25"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-27.468" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="86" laneoccupy="2">
+				<cars carid="S" volume="23"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-SST-27.779" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="86" laneoccupy="3">
+				<cars carid="S" volume="25"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="0" laneoccupy="0">
+				<cars carid="S" volume="0"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-28.420" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="82" laneoccupy="2">
+				<cars carid="S" volume="21"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="75" laneoccupy="0">
+				<cars carid="S" volume="2"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-TCIC-I-29.843" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="59" laneoccupy="1">
+				<cars carid="S" volume="9"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+<Info vdid="nfbVD-5N-30.100" status="0" datacollecttime="2015/03/31 23:50:00">
+			<lane vsrdir="0" vsrid="1" speed="110" laneoccupy="0">
+				<cars carid="S" volume="7"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+			<lane vsrdir="0" vsrid="2" speed="91" laneoccupy="0">
+				<cars carid="S" volume="6"></cars>
+				<cars carid="T" volume="0"></cars>
+				<cars carid="L" volume="0"></cars>
+			</lane>
+		</Info>
+
+	</Infos>
+</XML_Head>
