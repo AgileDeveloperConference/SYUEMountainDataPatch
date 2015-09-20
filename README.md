@@ -6,6 +6,9 @@
 `Example`
 
 	var parseFiles = require('parseFiles'); 
- 	var parseResult = parseFiles.executeParseXml('you want parse file's dir');
-  
- 	Array.isArray(parseResult) => true;
+ 	var parsePromise = parseFiles.executeParseXml('you want parse file's dir');
+  	parsePromise.done(function(parseDatas){
+  	   //回傳的資料為陣列，數量為你資料夾中xml檔來決定。 
+  	   console.log(Array.isArray(parseDatas))
+  	});
+ 	
