@@ -19,7 +19,8 @@ describe("Read xml and parse to json",function(){
 
 	parse.done(function(result){
 		//Assert
-		//Have success done mean it success; 
+		//Have success done mean it success;
+		expect(result).to.have.length(1); 
 		done();
   });
 

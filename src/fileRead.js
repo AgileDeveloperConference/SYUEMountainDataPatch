@@ -11,7 +11,13 @@ var	encode = "utf8",
 
 module.exports = {
 	executeParseXml:function(dirPath){
-			var deferred = new $.Deferred();
+			var deferred = new $.Deferred(),
+					count = 0,
+					fileName = "",
+					filePath = "",
+					parseResult = [],
+					tempCount =0;
+
 			fs.readdir(dirPath,function(err,files){
 				if(typeof files === "undefined")
 					files = [];
@@ -19,12 +25,12 @@ module.exports = {
 					console.log(err);
 					return;
 				}
-				var count = files.length;
-				var file = "";
+				
+				count = files.length;
 				for (var i=0;i<count;i++){
-					file = files[i];
-					console.log("Start Parse : " + file);		
-					var filePath = path.join(dirPath,file);
+					fileName = files[i];
+					console.log("Start Parse : " + fileName);		
+					filePath = path.join(dirPath,fileName);
 						fs.readFile(filePath,encode,function(err,file){
 							if(err){
 								console.log(err);
@@ -34,8 +40,12 @@ module.exports = {
 								if(err){
 									console.log(err);
 									return;
+								}
+							  parseResult.push(result);
+							  tempCount ++;	
+								if(tempCount === count){
+									deferred.resolve(parseResult);			
 								}	
-								deferred.resolve(result);			
 							});								
 						});		
 				}	
