@@ -5,7 +5,7 @@ var chai = require('chai');
 var expect = chai.expect;
 
 "lib"
-var fileParse = require('../src/fileRead');
+var fileParse = require('../src/parseFiles');
 
 describe("Read xml and parse to json",function(){
 	
